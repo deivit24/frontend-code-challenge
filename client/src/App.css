@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@400;700&display=swap');
+.App {
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+  height: 100vh;
+}
+
+.dark {
+  background: #3e454d;
+  color: white;
+}
